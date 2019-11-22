@@ -10,3 +10,6 @@ download_data_from_binance.py
 * This script downloads data for all tickers given in the symbol_list for a given date range. Binance is notorious to block access if very old data is requested or too much data is requested. So keep calm and run the script wisely.
 * All data are saves in individual files <ticker-name>-binance-data.csv and then combined into filename given by variable concat_output_filename
 * Finally it cleans the file and save the final cleaned data into filename given by variable crypto_data_master_cleaned.csv. (cleaning is needed as the script might have to be executed many times, Thanks to Binance' policy!)
+* Sample data generate by this script looks like this
+	![alt text](https://github.com/pratikpv/cryptocurrency_data_downloader/blob/master/sample_cryto_data_master_cleaned.png)
+
