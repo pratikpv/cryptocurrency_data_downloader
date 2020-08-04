@@ -1,4 +1,4 @@
-# Download crytocurrency historical data from Binance
+# Download cryptocurrency historical data from Binance
 
 download_data_from_binance.py
 * Uses Binance APIs to get access to www.binance.com
