@@ -13,3 +13,4 @@ download_data_from_binance.py
 * Sample data generate by this script looks like this
 	![alt text](https://github.com/pratikpv/cryptocurrency_data_downloader/blob/master/sample_cryto_data_master_cleaned.png)
 
+This framework is used in https://github.com/pratikpv/predicting_bitcoin_market
